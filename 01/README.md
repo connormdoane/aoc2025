@@ -8,14 +8,27 @@ Part2 can be done bruteforced quite trivially, by applying each rotation as a se
 
 Both parts can also be completed together very seamlessly, since the rotation is done the same way, just add Part1's check after the rotation in Part2, since the rotation logic is identical.
 
-Python
+Python - input
 
 real	0m0.010s
 user	0m0.008s
 sys	0m0.002s
 
-C++
+Python - bigboy
+
+real	0m2.273s
+user	0m2.164s
+sys	0m0.083s
+
+C++ - input
 
 real	0m0.003s
 user	0m0.003s
 sys	0m0.000s
+
+C++ - bigboy
+
+real	0m2.997s
+user	0m2.841s
+sys	0m0.147s
+
