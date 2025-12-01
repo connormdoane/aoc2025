@@ -8,6 +8,8 @@ Part2 can be done bruteforced quite trivially, by applying each rotation as a se
 
 Both parts can also be completed together very seamlessly, since the rotation is done the same way, just add Part1's check after the rotation in Part2, since the rotation logic is identical.
 
+![Python code](python.png)
+
 Python - input
 
 real	0m0.010s
