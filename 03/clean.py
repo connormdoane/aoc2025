@@ -1,5 +1,4 @@
-count1 = 0
-count2 = 0
+count1 = count2 = 0
 
 for line in open(0).read().rstrip().pop():
   # Part1
